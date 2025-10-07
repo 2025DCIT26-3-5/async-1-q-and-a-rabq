@@ -61,4 +61,4 @@ console.log(`Hello, ${name}!`);
 ## Question
 Paano ito naiiba sa if-else statement?
 ## Answer
-Ang if-else ay mahaba at multi-line, samantalang ang ternary operator ay maikli at one-liner.
+Ang if-else ay mahaba at multi-line, samantalang ang ternary operator ay maikli at one-liner..
