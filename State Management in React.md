@@ -8,4 +8,4 @@ Kasama dito ang:
 
 Paglikha ng state (local o global)
 Pagbabago ng state (updates)
-Pagbabahagi ng state sa mga components
+Pagbabahagi ng state sa mga components.
